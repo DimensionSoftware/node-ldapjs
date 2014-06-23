@@ -33,9 +33,6 @@
     "dashdash": "1.6.0",
     "pooling": "0.4.6"
   },
-  "optionalDependencies": {
-    "dtrace-provider": "0.2.8"
-  },
   "devDependencies": {
     "tap": "0.4.1",
     "node-uuid": "1.4.0",
